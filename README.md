@@ -1,5 +1,5 @@
 # Multimitros.Mitros1973
-Mitros.Tziavaras <script async src="https://widget.spreaker.com/widgets.js"></script>
+Mitros.Tziavaras
   Multimitros
  Mitros1973<br />
 <div class="separator" style="clear: both; text-align: center;">
