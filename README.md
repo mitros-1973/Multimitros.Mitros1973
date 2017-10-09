@@ -1,6 +1,7 @@
 # Multimitros.Mitros1973
 Mitros.Tziavaras
-  Multimitros
+  Multimitros <a class="spreaker-player" href="https://www.spreaker.com/show/1864735" data-resource="show_id=1864735" data-width="100%" data-height="350px" data-theme="dark" data-playlist="show" data-playlist-continuous="false" data-autoplay="true" data-live-autoplay="false" data-chapters-image="true" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/73dbb4fe8d304adeaafb8468aaf39c57.jpg">Listen to "Mitros1973&#39;s show" on Spreaker.</a>
+<script async src="https://widget.spreaker.com/widgets.js"></script>
  Mitros1973<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-pnamJsz_tFs/WdinDPRTddI/AAAAAAAAsXE/a2rlz3scU0wWUSZiiCSOixokQI_B1RyaQCKgBGAs/s1600/IMG_7384.GIF" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="480" height="640" src="https://4.bp.blogspot.com/-pnamJsz_tFs/WdinDPRTddI/AAAAAAAAsXE/a2rlz3scU0wWUSZiiCSOixokQI_B1RyaQCKgBGAs/s640/IMG_7384.GIF" width="480" /></a></div>
